@@ -1,7 +1,7 @@
 # Ex.06 Book Front Cover Page Design
 ## Date:5/10/25
 
-## AIM: TO BUILD THE EQUALITY
+## AIM: 
 To design a book front cover page using HTML and CSS.
 
 ## DESIGN STEPS:
