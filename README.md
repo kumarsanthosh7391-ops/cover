@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+
 ```
   <html lang="en">
 <head>
@@ -45,8 +46,8 @@ Publish the website in the LocalHost.
   <div class="cover">
     <div class="inner-box">
       <h3 class="top">SEC Insights</h3>
-      <h1 class="title">TAMILAGA VETRI<br>KALAGAM<br></h1>
-      <p class="subtitle"> popular  favourite CM </p>
+      <h1 class="title">ARTIFICIAL INTELLIGENCE<br>MACHINE LEARNING<br></h1>
+      <p class="subtitle"> popular  Trending course </p>
 
       <div class="bottom">
         <p class="special">SPECIAL EDITION</p>
@@ -62,14 +63,13 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-
 ```
 
 
 
 ## OUTPUT:
-![alt text](image.png)
 
+![alt text](<Screenshot (47).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
